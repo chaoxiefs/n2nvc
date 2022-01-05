@@ -44,7 +44,7 @@ Target (Speaker TM2):
 |---------------------|---------------|------------------|
 |Baseline                    |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMDlf/base_sf4tm2_30026_n100_snr7.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIzMjdf/da_7_sf4tm2_30026_n100.wav"></audio>   |
 |Proposed (Direct)           |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTBf/method2_sf4tm2_30026_n100_snr7.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjI1OTNf/md_7_sf4tm2_30026_n100.wav"></audio>   |
-|Upper Bound                 |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTVf/upper_clean_sf4tm2_30026.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyMzdf/ca_7_sf3tm2_30026_n100.wav"></audio>   |
+|Upper Bound                 |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTVf/upper_clean_sf4tm2_30026.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNDdf/ca_7_sf4tm2_30026_n100.wav"></audio>   |
 
 
 ## 3. Noisy source (Speaker SM3;  Noise type: Snore (N87);  SNR level: 7dB):
