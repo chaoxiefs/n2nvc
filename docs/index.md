@@ -2,6 +2,8 @@
 
 Those samples come from the [paper](https://arxiv.org/abs/2111.07116).
 
+Sampling Rate: 8000 Hz
+
 Speech dataset: [VCC 2018 Evaluation set](https://datashare.ed.ac.uk/handle/10283/3061)
 
 Noise dataset: [PNL 100 Nonspeech](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) (N86 to N100 for evaluation set)
