@@ -17,7 +17,7 @@ Noise dataset: [PNL 100 Nonspeech](http://web.cse.ohio-state.edu/pnl/corpus/HuNo
 
 Due to the samples from Proposed (Indirect) and Proposed (Direct) have almost the same quality, only the latter is demonstrated here.
 
-## 1. Noisy source (Speaker SF3;  Noise type: Cry (N93);  SNR level: 15dB):
+### 1. Noisy source (Speaker SF3;  Noise type: Cry (N93);  SNR level: 15dB):
 <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMDJf/noisy_sf3_30016_n93_snr15.wav"></audio>
 
 Denosied source:
@@ -33,7 +33,7 @@ Target (Speaker TF2):
 |Upper Bound                 |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTdf/upper_clean_sf3tf2_30016.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNzBf/ca_15_sf3tf2_30016_n93.wav"></audio>   |
 
 
-## 2. Noisy source (Speaker SF4;  Noise type: Phone dialing (N100);  SNR level: 7dB):
+### 2. Noisy source (Speaker SF4;  Noise type: Phone dialing (N100);  SNR level: 7dB):
 <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTNf/noisy_sf4_30026_n100_snr7.wav"></audio>
 
 Denosied source:
@@ -49,7 +49,7 @@ Target (Speaker TM2):
 |Upper Bound                 |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTVf/upper_clean_sf4tm2_30026.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNDdf/ca_7_sf4tm2_30026_n100.wav"></audio>   |
 
 
-## 3. Noisy source (Speaker SM3;  Noise type: Snore (N87);  SNR level: 7dB):
+### 3. Noisy source (Speaker SM3;  Noise type: Snore (N87);  SNR level: 7dB):
 <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTdf/noisy_sm3_30010_n87_snr7.wav"></audio>
 
 Denosied source:
@@ -65,7 +65,7 @@ Target (Speaker TF2):
 |Upper Bound                 |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTlf/upper_sm3tf2_30010.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTFf/ca_7_sm3tf2_30010_n87.wav"></audio>   |
 
 
-## 4. Noisy source (Speaker SM4;  Noise type: Door moving (N98);  SNR level: 7dB):
+### 4. Noisy source (Speaker SM4;  Noise type: Door moving (N98);  SNR level: 7dB):
 <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQ0MjBf/noisy_sm4_30023_n98_snr7.wav"></audio>
 
 Denosied source:
