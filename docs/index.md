@@ -1,4 +1,9 @@
-# Samples of Noisy-to-Noisy Voice Conversion Framework
+# DIRECT NOISY SPEECH MODELING FOR NOISY-TO-NOISY VOICE CONVERSION
+Chao Xie, Yi-Chiao Wu, Patrick Lumban Tobing, Wen-Chin Huang and Tomoki Toda
+
+Nagoya University, Japan
+
+## Samples of Noisy-to-Noisy Voice Conversion Framework
 
 Those samples come from the [paper](https://arxiv.org/abs/2111.07116).
 
